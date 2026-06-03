@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**helloimran037/helloimran037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**helloimran037/helloimran037.github.io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
